@@ -32,6 +32,8 @@ public class ArrayDemo {
 		String[] strings = {"Java", "JavaScript", "C#", "Python"};
 
 		double[][] sales2d = new double[4][];
+		
+		System.out.println("This is test 1");
 
 
 	}
